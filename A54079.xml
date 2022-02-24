@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apostate exposed, or, George Keith contradicting himself and his brother Bradford wherein their testimony to the Christian faith of the people called Quakers, is opposed to G.K.'s late pamphlet, stiled, Gross error and hypocrisie detected / by John Pennington.</title>
+            <author>Penington, John, 1655-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54079</idno>
+            <idno type="STC">Wing P1223</idno>
+            <idno type="STC">ESTC R4585</idno>
+            <idno type="EEBO-CITATION">12187526</idno>
+            <idno type="OCLC">ocm 12187526</idno>
+            <idno type="VID">55831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55831)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 615:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apostate exposed, or, George Keith contradicting himself and his brother Bradford wherein their testimony to the Christian faith of the people called Quakers, is opposed to G.K.'s late pamphlet, stiled, Gross error and hypocrisie detected / by John Pennington.</title>
+                  <author>Penington, John, 1655-1710.</author>
+               </titleStmt>
+               <extent>29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716. --  Gross error and hypocrisie detected.</term>
+               <term>Bradford, William, 1663-1752.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55831:1"/>
+            <pb facs="tcp:55831:1"/>
+            <p>AN APOSTATE EXPOSED: OR, <hi>George Keith</hi> Contradicting himſelf and his Brother <hi>BRADFORD.</hi>
+            </p>
+            <p>WHEREIN Their Teſtimony to the Chriſtian Faith of the People called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> is oppoſed to <hi>G. K.</hi>'s late Pamphlet, Stiled, <hi>Groſs Error and Hypocriſie detected.</hi>
+            </p>
+            <p>By <hi>JOHN PENNINGTON.</hi>
+            </p>
+            <q>
+               <p>For where Envying and Strife is, there is Confuſion, and every evil work,
+<bibl>
+                     <hi>James 3.16.</hi>
+                  </bibl>
+               </p>
+               <p>What ſhall be given unto thee, or what ſhall be done unto thee thou falſe Tongue, ſharp Arrows of the Mighty, with Coals of Juniper,
+<bibl>
+                     <hi>Pſal. 120.3, 4.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> near the <hi>Meeting-Houſe</hi> in <hi>White-Hart-Court</hi> in <hi>Grace-Church-ſtreet,</hi> 1695</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55831:2"/>
+            <pb n="3" facs="tcp:55831:2"/>
+            <head>An APOSTATE Expoſed: or <hi>George Keith</hi> contradicting himſelf, <hi>&amp;c.</hi>
+            </head>
+            <p>WHEN I firſt read <hi>G. K</hi>'s laſt Sheets, miſcalled <hi>Groſs Error, &amp;c.</hi> I did not think to have taken publick notice of it, and that for two Reaſons. Firſt, that tho' the ſaid Book ſmote hiddenly at the Yearly Meeting, and mored directly at the People called <hi>Quakers</hi> in gene<g ref="char:EOLhyphen"/>ral, yet that the <hi>Title-page</hi> and much of the Book reflects on Three Friends by Name, whom he would ſingle out, as <hi>leading Men</hi> in the ſaid Meeting, and pretends, by their former Wri<g ref="char:EOLhyphen"/>tings, to make good his Charge, the leaſt of whom, as they are far my Superiors in mana<g ref="char:EOLhyphen"/>ging of Controverſie, ſo are they <hi>Elders</hi> in the <hi>Church of God,</hi> and whom it would have more immediately have concerned to have returned an Anſwer, were that to do now, both on behalf of themſelves, and of the bleſſed Truth he hath blaſphemed. But this leads me to my Second Reaſon, <hi>viZ.</hi> That moſt of the paſſages he finds faults with, and would labour to <hi>pervert,</hi> have been already brought by him<g ref="char:EOLhyphen"/>ſelf in two printed Papers, (the one called, <hi>A true Copy of a Paper,</hi> &amp;c. The other, <hi>The pre<g ref="char:EOLhyphen"/>tended
+<pb n="4" facs="tcp:55831:3"/>
+Yearly Meeting of the Quakers, their Name<g ref="char:EOLhyphen"/>leſs Bull of Excommunication,</hi> &amp;c. and refuted by <hi>T. E</hi>'s, in a Book Entituled, <hi>Truth Defended,</hi> which he ſo far takes notice of in his <hi>Poſtſcript,</hi> as beſpeaks it was come to his Hands; for he makes ſome idle Obſervations on a paſſage or two, and ſo leaves it, which he had better have let quite alone, except he had done it more fairly, and more to purpoſe, and with<g ref="char:EOLhyphen"/>al makes a <hi>faint</hi> offer, <hi>that it is probable a due Anſwer may be given in due time</hi> to it; and that other Book of his, called <hi>a further Diſcovery.</hi> So that <hi>G. K.</hi> would he mind his buſines, mought have found work enough upon his hands, without writing <hi>one</hi> thing <hi>twice</hi> over, who for all he once told us, when preſſed to defend himſelf, that <hi>of making many Books there is no end,</hi> yet ſeems to have an itch to be doing, though it be but <hi>actum agere,</hi> rather then cope with what's <hi>ad rem,</hi> and argumentative; for till better enformed, I muſt aſſign his ſhifting, to a diffidence of his cauſe, and an uneaſineſs to buckle cloſe to the work, who after all his vain flouriſhes, empty not of malice but mat<g ref="char:EOLhyphen"/>ter, manifeſts himſelf to be at a low ebb; his ſtock almoſt exhauſted, if he be no more fruit<g ref="char:EOLhyphen"/>ful of his inſtances againſt thoſe Friends, and others of their Brethren, that ſo ſorry infer<g ref="char:EOLhyphen"/>ences, once before brought and found too light, are become his laſt refuge, and for want of more, muſt be repeated, though the invalidity of them hath been ſufficiently laid open.</p>
+            <p>
+               <pb n="5" facs="tcp:55831:3"/>Now that which drew me to be concerned with him, at preſent, is this; As I have of late compared his former Books, with his la<g ref="char:EOLhyphen"/>ter Pamphlets; ſo obſerving in a Book, which by the difficulty of obtaining, I find to be but in few Hands, that he, in the Year, 1692. (even ſince his work of <hi>Diviſion</hi> began, as I ga<g ref="char:EOLhyphen"/>ther from a paper of his <hi>Parties,</hi> ſigned in 1691. <hi>Reaſons and Cauſes,</hi> p. 19.) had expreſſed a differ<g ref="char:EOLhyphen"/>ent ſentiment of the <hi>Quakers Principles,</hi> then he hath of late; inſtead of enervating by argument (a work done by another Pen) his fallacy and groundleſs deductions, I choſe to confront him by his own handy works, and detect his ſelf-tinconſiſtency, with what he himſelf wrote, about three Years ſince.</p>
+            <p>The Title Page of this laſt, runs thus.</p>
+            <p>
+               <q>
+                  <hi>Groſs Error and Hypocriſy Detected in George Whitehead</hi> and ſome of his Brethren, as doth appear from the diſingenuous and Hypocriti<g ref="char:EOLhyphen"/>cal anſwer he and ſome others hath given to ſome <hi>Queries,</hi> ſent to the laſt <hi>Yearly Meeting</hi> of the People called <hi>Quakers,</hi> in the <hi>third Month,</hi> 1695. by comparing the ſaid anſwer with the printed Books of the ſaid <hi>George Whitehead, Willam Penn</hi> and <hi>John Whitehead, leading Men</hi> in the ſaid Meeting; wherein the great inconſiſtency and contradiction of their preſent late <hi>Anſwers</hi> to the expreſs <hi>Words</hi> and <hi>Sentences</hi> of their printed Books, is diſcover<g ref="char:EOLhyphen"/>ed, with a further account of their <hi>vile</hi> and pernicious Errors.</q>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:55831:4"/>The Queries he here mentions, ſeven in number, Indeed not tranſcribe, but refer to the Book it ſelf. They are ſaid to have been <hi>pro<g ref="char:EOLhyphen"/>poſed</hi> by the <hi>Biſhop</hi> of <hi>London</hi> his <hi>Chaplain</hi> (but probably were <hi>compoſed</hi> by <hi>G. Keith</hi> himſelf, or ſome ſuch others <hi>Apoſtate</hi>) the ſubſtance was to demand our Faith relating to <hi>Chriſt's</hi> being in Heaven, in the Body in which he ſuffered, his coming therein to Judge at the <hi>laſt Day,</hi> the Reſurrection of the Dead, and his <hi>Blood</hi> pro<g ref="char:EOLhyphen"/>pitiating for the Sins of the World. Now here what <hi>G. K.</hi> and ſome others in <hi>Rhode Iſland,</hi> ſay on behalf of the <hi>Quakers,</hi> in a Book of theirs, printed by <hi>William Bradford</hi> at <hi>Phila<g ref="char:EOLhyphen"/>delphia</hi> in <hi>Pennſylvania,</hi> Anno 1692. The Title is thus.</p>
+            <p>
+               <q>The <hi>Chriſtian Faith</hi> of the People of God called in ſcorn <hi>Quakers,</hi> in <hi>Rhode Iſland</hi> (who are in Unity with all Faithful Brethren, of the ſame Profeſſion, in <hi>all parts</hi> of the World) <hi>Vindicated,</hi> &amp;c. To which is added, ſome <hi>Teſtimonies</hi> of our <hi>Ancient Friends</hi> to the <hi>true Chriſt</hi> of God,<note place="margin">Note, Theſe Collected Teſti<g ref="char:EOLhyphen"/>monies were left out, in a later Impreſſion at <hi>London,</hi> by <hi>R. Baldwin:</hi> So the Reader will not find them there.</note> 
+                  <hi>Collected</hi> out of their printed Books, for the further convincing of our Oppoſers, that it <hi>is</hi> (and <hi>hath been</hi>) our <hi>conſtant</hi> and <hi>firm</hi> belief, to expect Salvation by the <hi>MAN Chriſt Jeſus,</hi> that was out<g ref="char:EOLhyphen"/>wardly Crucified without the Gates of <hi>Jeruſalem.</hi>
+               </q>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:55831:4"/>From whence I obſerve, that in the Year 1692. and before, the <hi>Quakers</hi> were found in the Faith; then <hi>G. K.</hi> with others, labour to <hi>convince our Oppoſers, that our belief and ex<g ref="char:EOLhyphen"/>pectation of Salvation by the Man Chriſt Jeſus, that was outwardly Crucified without the Gates of</hi> Jeruſalem, <hi>IS</hi> and <hi>HATH BEEN conſtant and firm,</hi> whereas now he inſinuates, the <hi>leading Men</hi> (as he terms them) viz. G. W. W. P. and J. W. are <hi>inconſiſtent, in their preſent late Anſwers to the expreſs words and ſentiments of their printed Books.</hi> So that, with him, one while Friends <hi>former</hi> Printed Books are <hi>Au<g ref="char:EOLhyphen"/>thentick,</hi> their belief <hi>conſtant</hi> and <hi>firm;</hi> other while they muſt lye under the imputation of <hi>vile</hi> and <hi>pernitious Errours.</hi> This will be made further appear by his <hi>Epiſtle</hi> prefatory to the Book called, <hi>Groſs Error, &amp;c.</hi> Which begins thus.</p>
+            <p>
+               <q>The method I propoſe in this follow<g ref="char:EOLhyphen"/>ing Treatiſe, is, firſt, to ſet down the ſaid Queries mentioned in the Title Page, next the Anſwers given by G. <hi>Whitehead,</hi> and Some of his Brethren, and ſigned by them; thirdly, the anſwers I have <hi>faithfully and ſincerely</hi> Collected out of the printed Books of <hi>George Whitehead, William Penn</hi> and <hi>John Whitehead,</hi> that ſhew the great incon<g ref="char:EOLhyphen"/>ſiſtency and contradiction of their <hi>preſent</hi> late anſwer to the expreſs words and ſenti<g ref="char:EOLhyphen"/>ments of their <hi>printed</hi> Books. The which anſwers will alſo give a further account of
+<pb n="8" facs="tcp:55831:5"/>
+their vile and pernicious Errors, oppoſite to ſome Fundamental Articles of the <hi>Chriſti<g ref="char:EOLhyphen"/>an Faith.</hi> And here I would have the Reader to underſtand, That if theſe men had, by their late anſwers, contradicted their former ſayings and ſentiments, from any ſincere conviction, and profeſſed ac<g ref="char:EOLhyphen"/>knowledgement of the <hi>vile</hi> and <hi>groſs</hi> Errors, boldly aſſerted by them, in their printed Books, I ſhould have been ſo far from charging them with <hi>Hipocriſy,</hi> for their ſo doing, that I ſhould have commended their <hi>Ingenuity.</hi> But they are ſo far from any ſuch acknowledgment, that in their late anſwer, they refer to the anſwer given by them in publick, to the objections made a<g ref="char:EOLhyphen"/>gainſt them in publick. Now it is plain by their anſwer made in publick, they mean their Anſwer and Doctrine, Sayings and Sentiments contained in their printed Books; ſo far are they from profeſſing or owning any real conviction they are under, of their former vile Errors. Though it is not im<g ref="char:EOLhyphen"/>probable, that ſome of them, and particu<g ref="char:EOLhyphen"/>larly <hi>George Whitehead,</hi> hath ſome contrary Apprehenſions and Sentiments, in divers of theſe weighty matters, to what he hath for<g ref="char:EOLhyphen"/>merly, with great confidence, aſſerted in Print, as not only being his <hi>own</hi> Principles, but the <hi>Quakers</hi> Principles. (Though I thank God, thoſe vile Errors, <hi>&amp;c.</hi> which he calls the <hi>Quakers Principles,</hi> were never my
+<pb n="9" facs="tcp:55831:5"/>
+Principles, and in Charity I am to believe, nor the Principles of divers others, that have with me gone under that Deſignation) — They are not ſo ſincere as to own and retract in publick their Errors expoſed in publick, even leſt ſuch Retraction or Cor<g ref="char:EOLhyphen"/>rection ſhould leſſen and abate their honour and eſteem among their too credulous Fol<g ref="char:EOLhyphen"/>lowers and Admirers, who without have all doubt have ſuffered themſelves to be too much influenced and led by them into the ſame Errors. And in the next page, "And however in ſome things of <hi>weight,</hi> it is poſ<g ref="char:EOLhyphen"/>ſible that <hi>G. Whitehead</hi> and ſome others have <hi>changed</hi> their Sentiments; yet I have no ground or reaſon to think otherwiſe, but as touching divers weighty Matters of the Chriſtian Doctrine and Faith, he and they are ſtill under great Blindneſs, Dark<g ref="char:EOLhyphen"/>neſs and Error.</q>
+            </p>
+            <p>This is the <hi>baſis</hi> of the Work, and gives us Light into the <hi>deſign,</hi> of his undertaking. The <hi>vile Errors</hi> he aſcribes to Friends <hi>former Sayings, Sentiments</hi> and <hi>printed Books;</hi> their <hi>Hypocriſie</hi> to their not <hi>acknowledging</hi> them; but <hi>referring</hi> to their <hi>Anſwers made publick,</hi> and yet allows ſome Reformation of Judg<g ref="char:EOLhyphen"/>ment, but not total, but that they are <hi>ſtill</hi> under <hi>great Blindneſs, Darkneſs and Error.</hi> This Charge is extenſive enough, reaching the publick <hi>Labourers,</hi> who have been Con<g ref="char:EOLhyphen"/>verſant in <hi>Print,</hi> without any <hi>exception;</hi> and how wide he will ſtretch it to fetch in
+<pb n="10" facs="tcp:55831:6"/>
+the reſt, under the notion of <hi>credulous Fol<g ref="char:EOLhyphen"/>lowers and Admirers,</hi> himſelf beſt knows, if any. That theſe were not his Sentiments <hi>formerly,</hi> or at leaſt that he hath declared <hi>otherwiſe,</hi> is what now lieth before me to evince, and that out of the Book, even now mentioned, called <hi>The Chriſtian Faith,</hi> &amp;c. for further notice I deſign not to take at pre<g ref="char:EOLhyphen"/>ſent, of him and his miſchievous Work (he being Debtor to <hi>T. E.</hi> for not offering him<g ref="char:EOLhyphen"/>ſelf from the incongrous and abſurd Infe<g ref="char:EOLhyphen"/>rences, he hath already drawn from thoſe Friends Books) than to turn his own and his Friends Weapons upon himſelf. <hi>Suo ſe ju<g ref="char:EOLhyphen"/>gulet gladio.</hi>
+            </p>
+            <p>In Pag. 3. <hi>G. K.</hi> and others (in order to <hi>vindi<g ref="char:EOLhyphen"/>cate</hi> the people called <hi>Quakers,</hi> from the <hi>Cal<g ref="char:EOLhyphen"/>umnies</hi> of <hi>Chriſtian Lodowick</hi>) ſay, <q>Whereas divers of us, challenged by him, declared ſincerely their ſincere Faith, as concerning the <hi>Lord Jeſus Chriſt of Nazareth,</hi> and what the Holy Scriptures teſtifie of him, yet he did continue to accuſe them ſtill, as <hi>de<g ref="char:EOLhyphen"/>nying the true Chriſt,</hi> alledging, <hi>they had ano<g ref="char:EOLhyphen"/>ther Senſe than the Scripture-Words did bear, and that his Senſe was true, but their Senſe was falſe,</hi>
+                  <note place="margin">
+                     <hi>G.K.</hi> hath done the ſame ſince.</note> appealing to their Conſci<g ref="char:EOLhyphen"/>ences, whether it was not ſo: thus making himſelf <hi>Judge</hi> over our <hi>Secret Thoughts,</hi> as having a ſecret Senſe in our thoughts of Scripture-words,<note place="margin">
+                     <hi>page</hi> 4.</note> con<g ref="char:EOLhyphen"/>trary to the true ſenſe of them,
+<pb n="11" facs="tcp:55831:6"/>
+though we have not given him or any o<g ref="char:EOLhyphen"/>ther <hi>occaſion</hi> to judge ſo <hi>raſhly,</hi> and <hi>uncha<g ref="char:EOLhyphen"/>ritably</hi> of us, and our Conſciences bear us witneſs in the ſight of God, that we do ſincerely believe, and <hi>think as we ſpeak,</hi> when we ſay according to the Holy Scripture, that <hi>Jeſus</hi> of <hi>Nazareth</hi> is the true <hi>Chriſt</hi> of God, and the <hi>only</hi> true <hi>Saviour,</hi> and there is no other Name given under Heaven, where<g ref="char:EOLhyphen"/>by Men muſt be ſaved, and that this ſame <hi>Jeſus</hi> was in fulneſs of Time, born of the <hi>Virgin</hi> called <hi>Mary,</hi> being conceived of the Holy Ghoſt, who dyed for our Sins, and roſe again for our Juſtification—who is exalted at the Right Hand of God, and ever liveth to make Interceſſion for us, and that Chriſt hath his <hi>Body in Heaven,</hi> a moſt glorious Body, not changed in Being or Subſtance, but in condition and manner of being; and that Chriſt is true and per<g ref="char:EOLhyphen"/>fect God, and true and perfect Man, the Son of God, begotten of God from ever<g ref="char:EOLhyphen"/>laſting, glorified with the Father before the World began—and that Chriſt as Man, hath both Soul and Body, and his Man<g ref="char:EOLhyphen"/>hood is moſt excellently and wonderfully united with his Godhead; yet his Manhood is not his Godhead, nor is his Body that he had of the <hi>Virgin,</hi> and now hath in Hea<g ref="char:EOLhyphen"/>ven, his Godhead, but the <hi>Temple</hi> of it, as Chriſt called his Body the Temple, and is the GARMENT or <hi>Cloathing,</hi>
+                  <note place="margin">☞</note> wherewith
+<pb n="12" facs="tcp:55831:7"/>
+the Eternal Word did cloath himſelf, who is that New and Living way, that he hath con<g ref="char:EOLhyphen"/>ſecrated for us, through the Vail, that is to ſay, his Fleſh.</q>
+            </p>
+            <p>
+               <q>And we believe, that God the Father hath appointed the Man Chriſt Jeſus to be the judge of the quick and the dead,<note place="margin">
+                     <hi>page</hi> 5.</note> and that he is to come to judge all Mankind with the great and laſt Judgment at the end of the World, the which end of the World we do believe is <hi>Not</hi> come, either <hi>within</hi> us, or <hi>without</hi> us—Therefore hath this <hi>Accuſer</hi> joyned with <hi>Tho. Hicks</hi> a <hi>Baptiſt Teacher</hi> at <hi>London,</hi> and <hi>John Faldo</hi> an <hi>Independent Teacher,</hi> and divers others, to accuſe us as <hi>denying the true Chriſt, becauſe we believe and confeſs to Chriſt's inward and out<g ref="char:EOLhyphen"/>ward appearance,</hi>
+                  <note place="margin">This Charge was groundleſs then, how comes it to be true now?</note> as if to believe and confeſs to Chriſt's <hi>inward</hi> Co<g ref="char:EOLhyphen"/>ming and Appearance, were certainly to deny his <hi>outward,</hi>
+                  <note place="margin">☞</note> or to hold forth <hi>two</hi> Chriſt's, which is but their great <hi>ignorance</hi> and <hi>unbelief,</hi> and no <hi>juſt Conſe<g ref="char:EOLhyphen"/>quence</hi> of our Principle, for the true Chriſt of God is one, and the true <hi>Chriſtian's Faith</hi> re<g ref="char:EOLhyphen"/>ceiveth and embraceth him <hi>whole</hi> and <hi>undivid<g ref="char:EOLhyphen"/>ed,</hi> and owneth his inward and outward Com<g ref="char:EOLhyphen"/>ing, who, as he did come without us in a ſtate of Humiliation to ſuffer, and is riſen and aſ<g ref="char:EOLhyphen"/>cended into Heaven, ſo he will come again
+<pb n="13" facs="tcp:55831:7"/>
+without us to judge the Quick and the Dead—And there ſhall be a Reſur<g ref="char:EOLhyphen"/>rection of the Body, both of the Juſt &amp; Unjuſt,<note place="margin">
+                     <hi>page</hi> 6.</note> that is not attained already or immediately after Death, but it is to be attained unto in the time appointed of God, called the <hi>Day of Judgment.</hi> And ſeeing our Friends in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have <hi>F<g ref="char:V">Ʋ</g>LLY</hi> anſwered to all theſe <hi>FALSE ACC<g ref="char:V">Ʋ</g>SATIONS</hi> of <hi>Tho. Hicks</hi> and <hi>J. Faldo,</hi> with whom <hi>Chr. Lodowick</hi> hath joyned, we refer to their Anſwers, for fur<g ref="char:EOLhyphen"/>ther Satisfaction.</q>
+            </p>
+            <p>Thus much on behalf, not only of him<g ref="char:EOLhyphen"/>ſelf and his <hi>Rhode Iſland</hi> Friends, but of Friends in <hi>England,</hi> and <hi>every where elſe.</hi> Then <hi>Hicks</hi> and <hi>Faldo</hi> were falſe Accuſers, their Conſequences indeducible, <hi>Chr. Lodowick</hi> (who had, it ſeems, got the ſtart of <hi>Keith</hi> both in Apoſtacy and Reflections) to blame for joining with them, and the Reader referred to Friends Books <hi>here,</hi> for <hi>further Satisfaction.</hi> It was then <hi>raſh and un<g ref="char:EOLhyphen"/>charitable</hi> to make ones ſelf <hi>Judge over anothers ſecret thoughts,</hi> to ſay Friends had another <hi>ſenſe than Scripture words did bear,</hi> &amp;c. but the <hi>Quakers</hi> are juſtified, even by <hi>G. Keith</hi> in their Faith concerning <hi>Chriſt,</hi> his <hi>Conception, Birth, Reſurrection, Aſcenſion, Interceſſion and Com<g ref="char:EOLhyphen"/>ing again to raiſe the Dead, and to Judge both Quick and Dead at the laſt Day;</hi> whereas ſince his coming over, <hi>Hicks</hi> and <hi>Faldo</hi> are vindica<g ref="char:EOLhyphen"/>ted, and Friends rendred <hi>Heterodox,</hi> even in thoſe very Books, among the reſt, out of
+<pb n="14" facs="tcp:55831:8"/>
+which they are here by him defended as <hi>Ortho<g ref="char:EOLhyphen"/>dox. Quae te Dementia cepit!</hi> But not to dwell upon this, I now paſs to that other part of their Book, which contains a <hi>Collection</hi> of <hi>Teſtimonies</hi> out of our <hi>Friends Books,</hi> as a fur<g ref="char:EOLhyphen"/>ther Corroboration of their evidence, for which it was added by his <hi>Printer</hi> and Brother in Schiſm, <hi>William Bradford,</hi> and as he ſaith, <hi>faithfully Collected,</hi> which let him look to.</p>
+            <p>His firſt citation is out of the <hi>Principles</hi> of <hi>Truth,</hi> by <hi>John Crook,</hi> whom, in his Page 10. he thus cites <q>Through this Gift we believe, that Chriſt Jeſus, the Son of God, was ma<g ref="char:EOLhyphen"/>nifeſt in the Fleſh, in the fulneſs of time — and that there is not another Name, whereby any can be ſaved, then this Name of <hi>Jeſus Chriſt,</hi> nor is remiſſion of Sins to be preached by any other Name. We be<g ref="char:EOLhyphen"/>lieve, that this <hi>Jeſus</hi> Dyed for or becauſe of Sin, and roſe again for the Juſtification of thoſe that believe in him, and that he there<g ref="char:EOLhyphen"/>by ſpoiled Principalities and Powers, and Triumphed over them openly, and led Cap<g ref="char:EOLhyphen"/>tivity captive in his own Perſon — By this Gift of God in our Hearts, we further believe that Chriſt Jeſus roſe again from the Dead, and ſits at Gods right Hand in a <hi>Glo<g ref="char:EOLhyphen"/>rious Body.</hi> And we believe, that our low Eſtates and humble Bodies ſhall be made like unto his glorious Body — and that this mor<g ref="char:EOLhyphen"/>tal ſhall put on Immortality — <hi>As the Man
+<pb n="15" facs="tcp:55831:8"/>
+is not without the Woman, neither is the Woman without the man in the Lord:</hi> even ſo is not the <hi>death and ſufferings of Chriſt without</hi> at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> to be made <hi>void and of none effect,</hi>
+                  <note place="margin">☜</note> by any thing <hi>within;</hi> neither doth the Light ſhine and make that of none effect <hi>without,</hi> but <hi>both</hi> in the Lord anſwers his will— And we alſo believe the Reſurrection of the Juſt and Unjuſt, according— to the Judgment of the <hi>great Day,</hi> and then ſhall every Seed have its <hi>own</hi> Body— But becauſe we dare not be ſo fooliſhly inquiſitive, as to ſay, with what Bodies do they ariſe, therefore do ſome ſay, <hi>We deny both the Reſurrection of the Body of Chriſt, and of all that are or ſhall be dead.</hi> But this <hi>ALSO IS FALSE,</hi> for <hi>every man ſhall be raiſed in his own order, but Chriſt the firſt fruits,</hi> 1 Cor. 15.23. And we believe they ſhall be raiſed with <hi>the ſame</hi> Bodies, ſo far as Natural and Spi<g ref="char:EOLhyphen"/>ritual, Corruptible and Incorrupti<g ref="char:EOLhyphen"/>ble,<note place="margin">☞</note> Terreſtrial and Coeleſtial can be the ſame.</q>
+            </p>
+            <p>The next Citation I ſhall bring, leaving thoſe of <hi>William Penn</hi> and <hi>George Whitehead</hi> for a cloſe, is out of a Book called, <hi>Malice of the Independent Agent again rebuked,</hi> p. 17.<note place="margin">p. 13.</note> The terms <hi>Natural</hi> and <hi>Earthly,</hi> as given to the Glorious Body of Chriſt, were and are offenſive to us. <q>It muſt needs be a very Glorious, Heavenly Body, and we believing ſuch a change
+<pb n="16" facs="tcp:55831:9"/>
+in the Glorious Body of Chriſt, we do not thereby (nor <hi>ever</hi> did) believe that the Bo<g ref="char:EOLhyphen"/>dy of Chriſt, which ſuffered, was <hi>annihi<g ref="char:EOLhyphen"/>lated,</hi> and that his Fleſh ſaw Corruption: <hi>NO S<g ref="char:V">Ʋ</g>CH MATTER:</hi> May there not be then a very Wonderful change in the Body, and yet the Subſtance not Annihilated nor de<g ref="char:EOLhyphen"/>ſtroyed? Now doth it follow, from our not believing nor owning his Characters (of <hi>Natural</hi> and <hi>Earthly</hi>) on Chriſt's Glorious Body, that therefore nothing of that Body <hi>Remains,</hi> or is in <hi>Being.</hi> pag. 19. As if we allowed nothing of the Man Chriſt, either of Spirit or Body, to have a being (after his Reſurrection) to aſcend, which is a <hi>HORRID FALSHOOD</hi>—Though Chriſt be God and Man, in a moſt Glorious Uni<g ref="char:EOLhyphen"/>on and Power, yet the Manhood is not the Deity, nor the Deity the Manhood, yet in<g ref="char:EOLhyphen"/>ſeparable in the Heavenly Man, Chriſt, who is Lord from Heaven.</q>
+            </p>
+            <p>I come now to what he quotes out of my <hi>Father,</hi> whom he repreſents as ſounder in the Faith, than a late litigious <hi>Agent</hi> in <hi>G. K</hi>'s cauſe (<hi>Thomas Criſp,</hi> I mean) hath ſought to Characterize him. It is in theſe Words, <q>
+                  <hi>Fleſh and Blood of Chriſt,</hi> by <hi>J. Penington (Preface)</hi> I have often hard them,<note place="margin">
+                     <hi>pag.</hi> 15.</note> the <hi>Quakers</hi>) own Chriſt both in<g ref="char:EOLhyphen"/>wardly and outwardly; yea, I heard one of the <hi>Antients</hi> of them thus Teſtify in a publick Meeting, many Years ſince, <hi>That
+<pb n="17" facs="tcp:55831:9"/>
+if Chriſt had not come in the Fleſh, in the ful<g ref="char:EOLhyphen"/>neſs of time, to bear our Sins in his own Body on the Tree, and to offer himſelf up a Sacrifice for Mankind, all Mankind had utterly Periſht.</hi> page 16. Glorious was that Appearance and Manifeſtion of his Son in the Fleſh, precious his ſubjection and Holy Obedi<g ref="char:EOLhyphen"/>ence to the Father: his giving himſelf up to death for Sinners, was of great eſteem in his Eye. It was a ſpotlſes Sacrifice, of great value, and effectual for the Remiſſion of Sins, and I do <hi>humbly acknowledge unto the Lord,<note place="margin">☞</note> the Remiſſion of my Sins there<g ref="char:EOLhyphen"/>by.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Robert Barclay,</hi> comes next, who is brought in ſaying, <hi>Apology,</hi> pag. 94, 95, 96.<note place="margin">
+                  <hi>p.</hi> 16.</note> 
+               <q>As we believe he [Chriſt] was a true and real Man, ſo we alſo believe, that he con<g ref="char:EOLhyphen"/>tinues SO to be Glorified in the Heavens in <hi>Soul</hi> and <hi>Body,</hi> by whom God ſhall judge the World in the <hi>great</hi> and <hi>general</hi> Day of Judgement. We believe all thoſe things to have been certainly tranſacted, which are recorded in the Holy Scriptures, concerning <hi>the Birth, Life, Miracles, Suffer<g ref="char:EOLhyphen"/>ings, Reſurrection</hi> and <hi>Aſcenſion</hi> of <hi>Chriſt,</hi> and we alſo believe; that it is the Duty of every one to believe it, to whom it plea<g ref="char:EOLhyphen"/>ſeth God to reveal it; yea, we believe it were <hi>Damnable <g ref="char:V">Ʋ</g>nbelief</hi> not to believe, when <hi>SO</hi> declared. And we believe that the Remiſſion of Sins,<note place="margin">☞</note> which any par<g ref="char:EOLhyphen"/>take
+<pb n="18" facs="tcp:55831:10"/>
+of, is <hi>ONLY</hi> in and by <hi>virtue</hi> of that moſt <hi>Satisfactory Sacrifice,</hi> and <hi>no other<g ref="char:EOLhyphen"/>wiſe; Vindication of Apology;</hi> page 89. I do believe that the <hi>Body</hi> of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, which was Crucified at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> was again raiſed by the Power of God, in which <hi>Glorious Body</hi> the Lord <hi>Jeſus Chriſt DWELLETH,</hi> page 189. We are <hi>falſly</hi> charged with denying the <hi>outward</hi> appearanee of Chriſt, the real <hi>Exiſtance,</hi> of Heaven and Hell, as a <hi>place without</hi> us, the <hi>laſt and general</hi> Judgment, the Reſurrection of the Body; for we <hi>REALLY</hi> believe theſe things.</q>
+            </p>
+            <p>The following citation with others com<g ref="char:EOLhyphen"/>prehends <hi>William Penn,</hi> one of them <hi>G. K.</hi> hath traduced by name, <q>
+                  <hi>Teſtimony for the Man Chriſt Jeſus,</hi>
+                  <note place="margin">
+                     <hi>pag.</hi> 11. 12.</note> page 4 (ſaith <hi>W. B.</hi>) and cites <hi>William Penn,</hi> where he ſpeaks in the name and perſon of the <hi>Quakers,</hi> thus, <hi>We do believe the Man Chriſt Jeſus to be Glorified in Heaven: We do believe that holy Manhood to be Glorified in Heavenly Glory.</hi>
+                  <note place="margin">☞</note> See now how far the <hi>Quakers</hi> are from denying the true and real <hi>Manhood</hi> of Chriſt in Heaven, or diſowning <hi>Jeſus of Nazareth</hi> to be the <hi>Miſſiah.</hi> And we further add and confeſs, that the ſame <hi>Man Chriſt Jeſus,</hi> that Suf<g ref="char:EOLhyphen"/>fered and was put to Death in the Fleſh — aſcended both as to a change of place and ſtate of Glory, — and that the <hi>ſame</hi>
+                  <pb n="19" facs="tcp:55831:10"/>
+Body, that was put to Death, was raiſed by the Power of God, and was a <hi>REAL</hi> Body, really ſeen both before and after his Reſurrection, and at his Aſcenſion alſo. So we confeſs the ſame Man Chriſt, not only to be <hi>ſtill</hi> in <hi>being,</hi> but alſo <hi>Glorified,</hi> and his Body to be a Glorious, Heavenly and Spiritual Body. And as to his being <hi>MAN, We have one Mediator between God and Man, even the Man Chriſt Jeſus,</hi> 1 Tim. 2. <hi>And God will judge the World in Righteouſneſs by that Man whom he hath or<g ref="char:EOLhyphen"/>dained, whom he hath raiſed from the Dead,</hi>
+                  <note place="margin">☜</note> Act. 17.31. So that this Man Chriſt did neither <hi>vaniſh</hi> nor <hi>perriſh</hi> in any thing eſſential to him, either as to his <hi>SPIRIT, SO<g ref="char:V">Ʋ</g>L</hi> or <hi>BODY,</hi> but is highly exalted and Glorified, <hi>Page</hi> 12. But if we ſhall be<g ref="char:EOLhyphen"/>changed, as to our low Body, and faſhion<g ref="char:EOLhyphen"/>ed into a Glorious Spiritual ſtate; then is Chriſt, as to his Body, changed or tranſ<g ref="char:EOLhyphen"/>lated into a far more <hi>Glorious State</hi> than what it had, when <hi>on Earth.</hi>
+               </q>
+            </p>
+            <p>I have reſerved his Quotations out of <hi>George Whitehead,</hi> to the laſt. <q>They are theſe <hi>Poſtſcript</hi> by <hi>G. W.</hi> (to a Book entituled <hi>Malice of the Independent Agent again rebuked</hi>) in anſwer to <hi>W. H</hi>'s <hi>Queries,</hi> page 23.<note place="margin">
+                     <hi>page</hi> 13.</note> That <hi>Fleſh</hi> ſaw no Corruption, but was <hi>raiſed</hi> from the Dead. Chriſt did riſe in <hi>that Body</hi> wherein he <hi>Suffered,</hi> and in the <hi>ſame</hi>
+                  <pb n="20" facs="tcp:55831:11"/>
+aſcended into the Heavens, where the Patriarch <hi>David</hi> did not, as to his Body, which is in the Sepulchre, <hi>Acts</hi> 2.29. And that <hi>VERY BODY</hi> of Chriſt, which was raiſed from the Dead, how ſhould it but be in being, ſeeing he dyed not again, according to <hi>Rom.</hi> 6.9. <hi>Knowing Chriſt be<g ref="char:EOLhyphen"/>ing raiſed from the Dead, dyeth no more,</hi> Death hath no more dominion over him: his dying was only as to the Body, he was put to death as concerning the Fleſh, therefore the <hi>Fleſh</hi> was raiſed from the dead. And it is, ſo far circumſcribed or encompaſſed in the <hi>Heavens,</hi> as its capable of; and as is proper to it: and tho' it be Spiritual and Glorious, yet a <hi>Body,</hi> and therefore <hi>not</hi> in <hi>every place,</hi> where God is. To be Omni<g ref="char:EOLhyphen"/>preſent is only proper to God, and not to Bodies. And in the next page, he adds:<note place="margin">
+                     <hi>page</hi> 14.</note> He is entred into Heaven it ſelf, to appear in the Face of God for us. And a little lower, out of <hi>The real Quakers, a real Proteſtant</hi> by <hi>G. W. page</hi> 105, 106. 'I deny it <hi>to be the Qua<g ref="char:EOLhyphen"/>kers</hi> mind that Chriſts Body did vaniſh, (ſo as to become annihilated) at his Aſcenſion: 'twas <hi>changed,</hi> and more <hi>Glorified,</hi> but not <hi>vaniſht.</hi> I am ſenſible that none in their right underſtanding or ſenſe, would give him any ſuch miſtaken anſwer or account concerning the Body of Chriſt, that it ſo vaniſht, as to become annihilated. Chriſt
+<pb n="21" facs="tcp:55831:11"/>
+hath a <hi>Glorious Body,</hi> moſt near and proper to himſelf, above and more excellent than all our earthly Bodyes, <hi>like unto which</hi> he will change our low and humble Bodies. And out of <hi>pag.</hi> 108. of the ſame Book, that, 'We believe that Chriſt as <hi>Mediator;</hi> hath obtain<g ref="char:EOLhyphen"/>ed eternal redemption for us, and that by his <hi>OWN BLOOD,</hi> that we might be ſan<g ref="char:EOLhyphen"/>ctified and redeemed from all Iniquity, for which end he gave himſelf for us. Again, Chriſt and his Light within are not to be <hi>divided</hi> in matter of <hi>Faith</hi> or <hi>Salvation.</hi>
+                  <note place="margin">
+                     <hi>pag.</hi> 15.</note> 
+                  <note place="margin">☞</note> We <hi>never</hi> oppoſed Chriſt who dyed for Sinners, or Faith in his Name; by believing or obeying the Light within.</q> Out of another Book of <hi>G. W</hi>'s, called <hi>Judgment fixed,</hi> in Anſwer to <hi>Jeffry Bullock,</hi> he brings a quotation thus, <q>The true Chriſt of God is but one, tho' he hath appeared in divers manners; both in the Fleſh and in the Spirit—he is the one Medi<g ref="char:EOLhyphen"/>ator between God and Man, even the <hi>MAN Chriſt Jeſus</hi> the heavenly glorious Man, the <hi>MAN</hi> that was promiſed to be for a hiding place—that <hi>MAN</hi> by whom God will judge the World in Righteouſneſs.</q> See alſo, <hi>Plea of the Innocent,</hi> by <hi>G. K.</hi> and <hi>T. B.</hi> pag. 10. accuſation out of <hi>G. W.</hi> in Anſwer to <hi>Jeffry Bullock,</hi> thus, <q>Thou who canſt not ſee the conſiſtency of Salvation by the <hi>Light with<g ref="char:EOLhyphen"/>in,</hi> and the <hi>Man Chriſt Jeſus,</hi> all gone from the Light into Imaginations.</q>
+            </p>
+            <p>
+               <pb n="22" facs="tcp:55831:12"/>Thus much out of <hi>G. W.</hi> as gathered by <hi>W. B.</hi> and made part of that Book, called, <hi>The Chriſtian Faith of the People of God, called</hi> Quaker <hi>in</hi> Rhode Iſland, <hi>&amp;c.</hi> And enough to ſhew wh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>G. W.</hi> and his Brethren, their <hi>for<g ref="char:EOLhyphen"/>mer Sentiments</hi> were, in thoſe <hi>weighty Points</hi> there controverted, and that <hi>G. K.</hi> is a <hi>falſe Accuſer.</hi> Now hear <hi>W. B.</hi> ſumms up the matter,<note place="margin">
+                  <hi>pag.</hi> 16.</note> at the cloſe, <q>Much more might have been cited out of the Writings of our Antient Friends, but this may ſuffice, at this time, to convince our Oppoſers, that it <hi>hath been,</hi> and <hi>is,</hi> the <hi>firm</hi> Belief of the People called <hi>Quakers,</hi> to expect Salvation by the <hi>Man</hi> Chriſt Jeſus, who was born of the Virgin <hi>Mary,</hi> was crucified for our Sins, and roſe again for our Juſti<g ref="char:EOLhyphen"/>fication, aſcended into Heaven, and ever liveth to make Interceſſion for us.</q> So that it ſeems, if we will believe theſe Men, or they dare believe themſelves, the <hi>Quakers</hi> were then Orthodox (<hi>viz.</hi> Anno 1692.) and what they had <hi>formerly</hi> delivered as their Faith, was ſound; <hi>they did ſincerely believe and think as they ſpake;</hi> a taſte ye have here, and MUCH MORE might be given, but this <hi>may ſuf<g ref="char:EOLhyphen"/>fice to Convince our Oppoſers,</hi> if <hi>W. B.</hi> be to be credited. But how much worſe than <hi>thoſe</hi> our Oppoſers, muſt that Man then be, who, all this notwithſtanding, repreſents them other<g ref="char:EOLhyphen"/>wiſe then they are, or he hath defended them
+<pb n="23" facs="tcp:55831:12"/>
+to be even a <hi>Traducer,</hi> a <hi>Defamer,</hi> yea, <hi>a Judas!</hi>
+            </p>
+            <p>This ſhaking the Foundation, upon which <hi>G. K</hi>'s whole ſuperſtructure is built, (in his late envious piece, ſtiled <hi>Groſs Error</hi> &amp;c.) as is Manifeſt from ſo much of the <hi>Preface,</hi> as I have cited, I ſhall leave <hi>G. K.</hi> to reconcile himſelf to himſelf and his Friends, and refer <hi>the Reader,</hi> for anſwer to the particular charges there exhibited, to that Book of <hi>T. E</hi>'s, called, <hi>Truth Defended,</hi> wherein, I doubt not, but the judicious and impartial will receive Satis<g ref="char:EOLhyphen"/>faction, in finding moſt of the Citations, In<g ref="char:EOLhyphen"/>ferences and Cavils, brought in this laſt of <hi>G. K</hi>'s, already fully cleared and anſwered <hi>there.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb n="24" facs="tcp:55831:13"/>
+            <head>POSTSCRIPT.</head>
+            <p>SInce the above was committed to the <hi>Preſs,</hi> another Book of <hi>G. K</hi>'s is come to my Hands, called, <hi>A Serious Appeal,</hi> &amp;c. in Anſwer to <hi>Cotton Mather</hi> of <hi>New-England,</hi> whom in the Title-Page he re<g ref="char:EOLhyphen"/>preſents as <hi>greatly poſſeſſed with a Spirit of Per<g ref="char:EOLhyphen"/>verſion, Errors and Envious Zeal againſt the Peo<g ref="char:EOLhyphen"/>ple called Quakers,</hi> and together with an <hi>Appeal</hi> againſt him <hi>to all the more Sober, Impartial,</hi> &amp;c. he Subjoins <hi>a Vindication of our Chriſtian Faith, eſpecially reſpecting the Fundamental Doctrines and Principles of Chriſtian Religion.</hi> This alſo was Printed by <hi>W. Bradford,</hi> Anno 1692. but after the other Paper already cited, as ap<g ref="char:EOLhyphen"/>pears by the References to it, in this Book. Some few Paſſages out of it, and that the ra<g ref="char:EOLhyphen"/>ther for that <hi>G. K.</hi> is Sole Author here, <hi>not in conjunction</hi> with others, as before, I ſhall add by way of Corollary.</p>
+            <p>In page 6. I find <hi>G. K.</hi> deſervedly reflecting on his Opponent, for his <hi>Citations out of the</hi> Quakers <hi>Printed Books and Treatiſes,</hi> as having <hi>borrowed</hi> and <hi>taken them, not from our own Books, but from our profeſſed Adverſaries,</hi> whom he terms <hi>Men known well enough to be poſſeſſed with
+<pb n="25" facs="tcp:55831:13"/>
+prejudice againſt us, ſuch as</hi> Thomas Hick's <hi>and</hi> John Faldo, <hi>and others,</hi>
+               <note place="margin">But how comes <hi>G. K.</hi> of late to abet theſe very Adverſaries, de<g ref="char:EOLhyphen"/>fended their cauſe, and pick matter of quarrel againſt Friends, even out of theſe very <hi>Books</hi> (among others) he here recom<g ref="char:EOLhyphen"/>mends?</note> 
+               <hi>whom our Friends in</hi> Old England, <hi>and particularly</hi> G. W. <hi>and</hi> W. P. <hi>have largly anſwered,</hi> and goes on, <q>I do here ſolemnly charge <hi>C. M.</hi> to give us but ONE ſingle inſtance of any one <hi>Fundamental</hi> Article of <hi>Chriſtian Faith</hi> denyed by us as a People, or by any one of our <hi>Writers or Preachers</hi> generally owned and approved by us. And in the next page, 'According to the beſt knowledge I have of the People called <hi>Quakers,</hi> and thoſe moſt <hi>generally</hi> owned by them,<note place="margin">Is <hi>G. W. W. P. and J. W.</hi> none of this number? Did not he, then re<g ref="char:EOLhyphen"/>pute them ſuch, and recommend <hi>G. W.</hi> and <hi>W. P</hi> their Books, as ſuch?</note> as <hi>Preachers</hi> and <hi>Publiſh<g ref="char:EOLhyphen"/>ers</hi> of their Faith, of unqueſtioned eſteem a<g ref="char:EOLhyphen"/>mong them, and wor<g ref="char:EOLhyphen"/>thy of double Honour, as many ſuch there are <hi>I</hi> know NONE that are guilty of any ONE of ſuch Hereſies and Blaſphemies, as he accuſeth them.</q>
+            </p>
+            <p>In page 11. Speaking on behalf of the <hi>Quakers,</hi> he ſaith, <q>We zealouſly believe, that the Man Chriſt is in Heaven without
+<pb n="26" facs="tcp:55831:14"/>
+us, in his Glorified Body of Man, the ſame for being he had on Earth, but won<g ref="char:EOLhyphen"/>derfully changed in manner and condition, as is clearly and fully expreſſed in that late Treatiſe given forth by our Friends in <hi>Rhode-Iſland,</hi> called, <hi>The Chriſtian Faith,</hi> &amp;c. <hi>Vindicated,</hi> &amp;c.</q>
+            </p>
+            <p>Now hear him in <hi>page</hi> 52, thus he hath it, <q>But that he <hi>[Cotton Mather]</hi> chargeth it upon us, as if we did not believe <hi>Chriſts coming again and appearance without us, in his Glorified Body, to judge the Quick and the Dead,</hi> is that he cannot prove ANY OF US Guilty, that is generally owned and receiv<g ref="char:EOLhyphen"/>ed to be of our Faith; only we have denied the groſs and carnal Imaginations, that ſome have vented as concerning Chriſt's Body; calling it <hi>Natural</hi> and <hi>Earthly,</hi> which we believe is <hi>Spiritual</hi> and <hi>Heavenly</hi>— And a little lower, 'He <hi>[C. M.]</hi> doth moſt grosſly prevaricate, abuſ<g ref="char:EOLhyphen"/>ing and perverting our words,<note place="margin">This <hi>abuſe</hi> and <hi>perverſion</hi> himſelf of late hath been guilty of, in a high degree, and that from the ſame to picks.</note> as if becauſe we owned an <hi>inward quick<g ref="char:EOLhyphen"/>ing and being raiſed with Chriſt,</hi> in our Souls and inward Man, that there<g ref="char:EOLhyphen"/>fore <hi>we deny any future Reſurrection of the Body after Death,</hi> which WE DENY NOT, but affirm againſt <hi>Ranters</hi> and vain <hi>Noti<g ref="char:EOLhyphen"/>oniſts;</hi> and we believe, that the Reſurrecti<g ref="char:EOLhyphen"/>on
+<pb n="27" facs="tcp:55831:14"/>
+of the Body is not attained Immediately after Death — but at Chriſt's coming and appearing to judge the Quick and the Dead: and the ſame Body that dyeth, is raiſed, in a true ſence, being freed and refined from all Droſs of Corruption, &amp;c.</q>
+            </p>
+            <p>His Citations out of my Father, <hi>page</hi> 25. 26, 28.<note place="margin">Theſe are but words of <hi>courſe</hi> with him, for it is not long ſince, that it was Dear <hi>G.W.</hi> alſo.</note> (whom he terms, Dear <hi>Iſaac Penington,</hi> and ſaith he well <hi>knew to be a true Believer in the Lord Jeſus Chriſt, and a ſincere Lover of the crucified Jeſus,</hi>) and thoſe of <hi>G. F. page</hi> 60. Vindicating them, even in thoſe very paſſages, which his Friend <hi>Tho. Criſp</hi> renders them as heretical in, I light<g ref="char:EOLhyphen"/>ly paſs over, deeming it no wonder that <hi>T. C.</hi> and <hi>G. K.</hi> ſhould claſh, when <hi>G. K.</hi> and <hi>G. K.</hi> cannot agree. And perhaps a more ſuitable occaſion may happen for ſome body elſe to be more particular therein.</p>
+            <p>Now <hi>Reader,</hi> what ſhould induce ſuch a Man, of ſo <hi>great abilities</hi> as he would be thought to be, and no queſtion hath more then he makes a good uſe of, who, <hi>to Gods praiſe</hi> (as he tells <hi>C. M. page</hi> 29. but I rather think to his own applauſe) hath <hi>the Gifts, both of ſound Knowledge and Expreſſion, with his MANIFOLD other Mercies beſtowed on him,</hi> thus to interfere, ſay and unſay, were it not, that Envy and Prejudice hath exceed<g ref="char:EOLhyphen"/>ingly
+<pb n="28" facs="tcp:55831:15"/>
+blinded him! For <hi>ſuppoſing, not granting</hi> that thoſe three Friends, he levels his ſtroak ſo hard againſt, had not ſo ſafely guarded ſome Expreſſions, as they might have done? muſt therefore they and their Brethren be reflected on, as <hi>Blind, Dark and Erroneous, touching divers weighty Matters of the Chriſti<g ref="char:EOLhyphen"/>an Doctrine and Faith,</hi> even after he had given a <hi>contrary</hi> character of two of them (<hi>viz. G. W.</hi> and <hi>W. P.</hi>) and referred to their writings as ſound and true, as well as declar<g ref="char:EOLhyphen"/>ed that he knew not <hi>one ſingle inſtance of any one Fundamental Article of Chriſtian Faith denied by us, as a People, or by any one of our Writers and Preachers, generally owned and approved by us.</hi> Let us hear him therefore once more paſs Judgement againſt himſelf, even in this par<g ref="char:EOLhyphen"/>ticular, and that after 28 Years experience and converſe, both private and publick, and therewith cloſe theſe.</p>
+            <p>
+               <q>All but <hi>prejudiced</hi> Perſons (ſaith he, <hi>Serious Appeal, page</hi> 7.) will ſay, if it can be found by comparing their Words one with ano<g ref="char:EOLhyphen"/>ther, that their Senſe or Meaning is ſound, though not ſo altogether ſafely and cauti<g ref="char:EOLhyphen"/>ouſly worded in every reſpect, <hi>Charity is to be allowed,</hi> and the <hi>beſt conſtruction</hi> ought to be given to their words, or they themſelves or their Friends for them, in reſpect of their abſence or deceaſe, who did beſt know them, ought to be allowed to give their ſence of them, as I have done in the
+<pb n="29" facs="tcp:55831:15"/>
+ſincerity of my Heart, according to my beſt underſtanding and knowledge of them: and I think I ſhould know and do know theſe called <hi>Quakers,</hi>
+                  <note place="margin">The greater is his condemnation then, falſly to ac<g ref="char:EOLhyphen"/>cuſe them now.</note> and their Prin<g ref="char:EOLhyphen"/>ciples, far better than <hi>Cotton Mather,</hi> or any or all his Brethren, having been converſant with them in publick Mee<g ref="char:EOLhyphen"/>tings, as well as in <hi>private</hi> Diſcourſes, with the moſt noted and eſteemed among them for about 28 Years paſt, and that in many places of the World in <hi>Europe,</hi> and for theſe divers Years in <hi>America.</hi>
+               </q>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
